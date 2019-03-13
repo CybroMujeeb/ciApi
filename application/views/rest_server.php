@@ -79,15 +79,15 @@
 
         <p>
             See the article
-            <a href="http://net.tutsplus.com/tutorials/php/working-with-restful-services-in-codeigniter-2/" target="_blank">
-                http://net.tutsplus.com/tutorials/php/working-with-restful-services-in-codeigniter-2/
+            <a href="https://github.com/CybroMujeeb/ciApi" target="_blank">
+                https://github.com/CybroMujeeb/ciApi
             </a>
         </p>
 
         <p>
             The master project repository is
-            <a href="https://github.com/chriskacerguis/codeigniter-restserver" target="_blank">
-                https://github.com/chriskacerguis/codeigniter-restserver
+            <a href="https://github.com/CybroMujeeb/ciApi" target="_blank">
+                https://github.com/CybroMujeeb/ciApi
             </a>
         </p>
 
