@@ -74,7 +74,7 @@ CREATE TABLE `keys` (
 -- Dumping data for table `keys`
 --
 
-INSERT INTO `keys` (`fdgf`, `id`, `key`, `level`, `ignore_limits`, `is_private_key`, `ip_addresses`, `date_created`) VALUES
+INSERT INTO `keys` (`pkey`, `id`, `key`, `level`, `ignore_limits`, `is_private_key`, `ip_addresses`, `date_created`) VALUES
 (40, 0, 'wc080skwssw0skkk4kw0c8o04k08k4w0scggg8wgcgog8wowggk0ggsog0go08c8', 1, 1, 0, '192.168.1.127', 1549888236);
 
 -- --------------------------------------------------------
